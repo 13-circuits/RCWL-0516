@@ -195,6 +195,9 @@ https://www.youtube.com/watch?v=IJoPkKlxFXA  (thanks for that tip [underwoodblog
 A video from Big Clive "How microwave body detectors work. With RF section schematic."
 https://www.youtube.com/watch?v=Hf19hc9PtcE (again thanks to [underwoodblog](https://github.com/underwoodblog) )
 
+[How to Get Started with a Microwave Radar Motion Sensor by T.K. Hareendran](https://www.electroschematics.com/get-started-microwave-radar-motion-sensor/)
+
+
 ## Updates
 
 14 May 2019: More main page content updates.
