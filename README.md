@@ -195,6 +195,8 @@ https://www.youtube.com/watch?v=IJoPkKlxFXA  (thanks for that tip [underwoodblog
 A video from Big Clive "How microwave body detectors work. With RF section schematic."
 https://www.youtube.com/watch?v=Hf19hc9PtcE (again thanks to [underwoodblog](https://github.com/underwoodblog) )
 
+[Arduino Wall-Penetrating Motion Sensor Using The RCWL-0516](https://makersportal.com/blog/2018/7/5/arduino-wall-penetrating-motion-sensor-using-the-rcwl-0516-microwave-radar-module)
+
 ## Updates
 
 14 May 2019: More main page content updates.
