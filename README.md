@@ -197,6 +197,8 @@ https://www.youtube.com/watch?v=Hf19hc9PtcE (again thanks to [underwoodblog](htt
 
 [Arduino Wall-Penetrating Motion Sensor Using The RCWL-0516](https://makersportal.com/blog/2018/7/5/arduino-wall-penetrating-motion-sensor-using-the-rcwl-0516-microwave-radar-module)
 
+[How to Get Started with a Microwave Radar Motion Sensor by K. HAREENDRAN](https://www.electroschematics.com/get-started-microwave-radar-motion-sensor/)
+
 ## Updates
 
 14 May 2019: More main page content updates.
